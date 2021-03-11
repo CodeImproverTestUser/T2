@@ -1,7 +1,7 @@
 duplicationConfig:
   #Below patters are in reugular exporession
   exclusions:
-    pathPatterns:
+    #pathPatterns:
       #- \.g\.cs$
       #- \.csproj$
       #- \.json$
