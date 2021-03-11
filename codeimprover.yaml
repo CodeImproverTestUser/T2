@@ -10,4 +10,4 @@ duplicationConfig:
       - \.md$
     linePatterns:
       - using \S+;      
-    numberOfLinesToCompare: 7
+    numberOfLinesToCompare: 4
