@@ -1,5 +1,5 @@
 duplicationConfig:
-  #Below patters are in reugular exporession
+  #Below patters are in regular expression
   exclusions:
     #pathPatterns:
       #- \.g\.cs$
